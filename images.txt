@@ -1,6 +1,7 @@
 nginx
 php:8.2-fpm-alpine
 php:8.2.21-fpm
+php:8.0.30-fpm
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
